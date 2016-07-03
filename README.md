@@ -1,1 +1,2 @@
-# prime_prestudy_01
+# Week 3
+Thanks for stopping by!
